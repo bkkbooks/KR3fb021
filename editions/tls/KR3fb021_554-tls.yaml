@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/554
+seq: 554
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:0fa3e6f68da731e860316a42880e8e8612649fe2994056c39ece3cafc6887710

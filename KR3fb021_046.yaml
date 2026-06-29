@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/46
+seq: 46
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷十六考春秋晦朔交食說經傳晦朔考附日食四十三除左傳至朔辨春秋正月辨歷代正朔考春秋正月考卷十七定氣辨
+  hash: sha256:d38ebdafe0928f24822a44064ef2f7ab8f38f5f7d5c00d192f2637424c66b9ac
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:0b7055e474248fe80bb243a3a05df5268d0eb2934ddb70687fd37f3ed626f8d8

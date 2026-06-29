@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/68
+seq: 68
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求上元七政躔度七條求中元氣朔七政躔度九條卷十歲星總説立同法源三正宗堯典攷舊暦秦暦漢太初丁丑元和乙酉晋太元甲申宋元嘉癸未唐大衍甲子宋慶暦甲申紹興甲子元至元辛巳今元庚午一元章蔀紀元法数缺辨疎謬九條一元紀法炁朔積應表漢書宋志南齊書第七紀炁朔蔀應章應表隋書唐暦志一行日度儀第八紀炁朔蔀應章應表統元暦授時暦議西法第九紀炁朔章應表卷十一第十紀炁朔章應表歲差定法定朔説
+  hash: sha256:2f76d8479f0378ed1661bd45ac23bd1787181762be33986ae413dd2262270a0a
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:f59748acb4fd3814299ad65d26ef0829f70efc77be91110501119d332592b422

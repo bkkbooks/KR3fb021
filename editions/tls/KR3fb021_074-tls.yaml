@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/74
+seq: 74
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷十三攷古炁朔説古暦炁朔攷證四十六條漢太初暦東漢元和暦乾象暦魏景初暦晋太元暦宋元嘉暦大明暦北魏正光暦北齊天保暦後周天和暦天象暦隋開皇暦皇極暦大業暦唐戊寅暦麟德暦乙巳暦天衍暦五紀暦正元暦宣明暦崇元暦周欽天暦宋應天暦乾元暦儀天暦崇天暦明天暦奉天暦觀天暦紀元暦占天暦金大明暦南宋統元暦乾道暦湻熙暦會元暦統天暦天禧暦淳祐暦會天暦成天暦元庚午暦授時暦明大統暦
+  hash: sha256:fdc005fbac24d8211620034f4b7d278a868dcd9564e5f7b2b3a1a0004713d0cc
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:9d1913f9a2f4c7d6b9743bc99bfa1deea44c624a8f4b605a865f3962bf5635b8

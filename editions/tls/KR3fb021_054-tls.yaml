@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/54
+seq: 54
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷三天地周徑里寶七政右轉辨經緯皆左旋說又左旋大率日遠近辨日無盈縮説日光盛衰説月光月食説星宿光魄説
+  hash: sha256:bc3d16428972a64c329a141cafd3e8d56a14e0a6ce278f7c34404cf83a23e72d
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:6bd9c1c0a7a3930a4e4395ffbf2e4e28c6d2cf07c56a9343c26d6c75c1f5980f

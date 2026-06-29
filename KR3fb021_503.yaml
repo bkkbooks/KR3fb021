@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/503
+seq: 503
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 圖五天氣十四按素問岐伯曰臣覽太始天元册文丹天之氣經于牛女戊分黅天之氣經于心尾已分蒼天之氣經于危室栁鬼素天之氣經于元氐昴畢元天之氣經于張翼婁胃所謂戊已分者奎壁角軫則天地之門戶也戊與丙同位于已已與丁同位于午戊已本在中宮而已午為其寄位末句之意是明戊已屬王而已為地戶故戊已在已午間非戊分在已而已分
+  hash: sha256:0c05ec53324dbf80b25df8f9af314e96c123a8ab060e363aafc2a15d9eb4bc93
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:19fca3d535a5389d2ada4a6728c9f9e22cf4e811a6297f14aa6a1d1779031952

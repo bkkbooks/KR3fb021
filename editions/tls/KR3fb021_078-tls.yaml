@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/78
+seq: 78
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 歲在鶁火辨歲在星紀辨五步策数映一元紀法五緯合應表缺第八紀歲星合應表第九紀五緯章應表第十紀五緯章應表卷十五步五緯法缺
+  hash: sha256:c2574001e84a7fbc69eb6be90ed1d084b3710c25c4f140ee2a54265daab2592e
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:89b7a082d8318e517a2bd54ceaf270b5c5fec113b2cd63e4eb4985639217196f

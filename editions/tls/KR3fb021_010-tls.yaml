@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷首原編目錄略言暦統暦辨卷一暦原又暦原改本原木一作暦理
+  hash: sha256:b3a7544f71e029d7ede07c04cb88479b2d4cbab61e4dc2d916dc2ea65fc343b0
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:45a5d5b850b2d9cf929076d53f2b8d2de01d434515595033b6db5ca81da1d777

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/84
+seq: 84
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 星宿光魄說五行之序三易先天後天辨
+  hash: sha256:e90eb2403161829e9ddfece2478314736293efe27469d240815293d6adc51f5d
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:d27efe361696a33a2c244cf9adaf58c44ebd9f1a36115d540097d491f098b306

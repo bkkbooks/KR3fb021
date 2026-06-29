@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/937
+seq: 937
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 非者非智不及此而不一試也良以試之不效故不言也而世且為之説曰古尺不得也鐘侖未合也忝必用上黨之秬管必取金門之竹必淂河內之霞也是皆甘為漢人所欺者也
+  hash: sha256:66655d88f53b69067e7fba93d30fe99c3eaddd9fd3a8968e34ff9caf1e26643c
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:219b2067e13cc799a7d6a7defbbb227251cd19c27bb975553d3712265b113f6a

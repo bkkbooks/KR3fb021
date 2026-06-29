@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/661
+seq: 661
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 百年之後曆省定法歲幾其是乎自漢至元曆經六十餘改而舊法遞見為後天於是術家亦遞指舊法為疏使果疏也則或出於先天或出於後天必當參差相襟者今曥考古曆其前後遞減漸級顯然則天運日消與諸曆之數率以從天皆缺油可信然無有屈伸無一往不復之理故自元至今又進而加長知元之前為消元之後為長則由近察遞見往知來而一周消長之數無不可淂矣
+  hash: sha256:bd4d7785cca7129c47a08107425d68d6da9e589f5d8ce351ba43f065c4193ccd
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:cea3806aa35eead1c45a5959cb9f1818a4f35163778a49fe2ab25d16cf25b150

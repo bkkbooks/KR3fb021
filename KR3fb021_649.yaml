@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/649
+seq: 649
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五十六章已丑至壬子三二四三七七八五五朔丁酉二二八一七一七八七五五十七章戊申至辛卯六四二五七六三三六四朔丙子九一七六六二五四七二五五十八章丁卯至辛未二五二七一四八八七三朔丙辰六七二二四三七六六二五五十九章丙戍至庚戍八六二八五三四三八二朔丙申二九六七八六二六六十章乙巳至庚申四七二九九一九八九一朔乙亥九八六三四八三五三七五
+  hash: sha256:b045b65ff951717b3b6e8cade97b6d6284eaa50ab4f92a42f3d57429491b801d
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:d93f761c655159da9500f808d6977c3423dc78a3c3e39deafa814051f3849149

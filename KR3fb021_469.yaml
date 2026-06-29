@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/469
+seq: 469
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三統圖元一元二萬七千三百九十有半歲分為三統統統各九千一百三十歲零二月三統分為六氣氣氣各四千五百六十五歲零一月六氣分為十二運運運各二千二百八十二歲零六月有半圖一元十二運積年表
+  hash: sha256:a2161d27c5d0f5b9cd7ca345f97c998b27b1c01d16d64903260c139aa7f38413
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:9a6a3ebf7d4c9a0e89486255fd96418e2dcf09632243b4c2f9604f90a45f8ab6

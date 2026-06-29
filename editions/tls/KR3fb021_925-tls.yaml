@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/925
+seq: 925
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 有立數脫化巧妙而出于理之外者黃道是也有改制而無閞于曆象之實者商周改正是也其法之剏自後人者凡二十有二有合于理者歲餘朔餘虗分周天零分定朔古盖有之但後人復立耳消長法萬分法閏應交食法里差法五步盈縮法渾盖通憲是也有僅合于數者盈縮曆疾遲曆是也有為古之所有而流為謬妄者求上元測量法是也有於曆非要而歷代致詳者渾天儀是也有理可相通而傳會無益者鐘律著策是也有流為術數而時俗遵用不可盡者年月日時方神奇門紫白禽星四餘法是也
+  hash: sha256:5756a3576872760de5320d702ae4c5c40facbfcfab6b94d9273c66ab6f8ae561
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:768a699e93996f206e234e569a209773fe3f4088809c662a6003edb0173c346f

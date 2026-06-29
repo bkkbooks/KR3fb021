@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/52
+seq: 52
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 定曆玉衡目録原編凡精確不必刪必者朱圈記于目上卷一曆原刪曆理曆要在三卷之首卷九重天圖圖說當作蓋天異法而刪改之渾天舊儀圖渾天真象圖真象說虗象說佄測量天地卷二地理地體渟下說合上篇大地圖輿地圖天中地中說測量法辨
+  hash: sha256:570d7da72bcee9d0f1673bdab9168c3329c4d2a2ba66463f3b5fd9e0398bcb7d
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:dc01b3d71dd60d68274ed472249e65c4ba80d30fe01a5998b27d58e31ccdca35

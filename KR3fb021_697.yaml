@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/697
+seq: 697
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第一層為舊法舊起曆之歲第二層為舊法應第三層為新法氣應泰定積距者泰定甲子冬冬至漸積而上之年也加分者即每歲氣差之分在昔為遞減而此表用逆推故反遞加也加合者以加分併入新法氣應則與舊法適合也其表皆係消分𠰥泰定長分則僅有明之大統曆回回曆反今之時憲曆而已故不復另作長分表
+  hash: sha256:a124997ada07d6d515c61d6e4d87269b2e8aa82db56c19b605609f4213ed24f6
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:57f6a3dacd73b546af437e4f78e2a3ecac6e16382ba3f7b4d106296ec0508dba

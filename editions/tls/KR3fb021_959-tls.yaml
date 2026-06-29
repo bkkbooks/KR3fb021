@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/959
+seq: 959
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之行跡長圖如鵞卵盖因水星之見恒在地平旁近其占度潤故成此象也暦書言彼中暦家亦謂有天行長圖如夘者夫天體不圓不運以為長圃固非然其於潤狹之象則見之甚明矣是可見天頂度狹近地度潤乃中西所共見而近大違小尤中西之公論彼特地圖之説者即欲抹殺之而不淂也
+  hash: sha256:d134cb626ad629817ea9478cca383dd09063adecd3a4b338035fa73ecdf64e13
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:a4a17098c52a59d98b872598ce51328e2805c12843cad796a6dd3cbeb7c84b91

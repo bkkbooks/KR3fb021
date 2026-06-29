@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/328
+seq: 328
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 圖古今北斗入度不同表舊經大衍曆授時曆天樞入七星一入張十三度去極二十三度半度入張九度天旋入張二度入張十二度半去極三十度入張十二度半天璣入胄二度入翼十三度去極三十度入翼十三度天權入翼八度入翼十七度太去極二十三度入翼十七度太玉衡入軫八度入軫十度半去極二十八度入軫十二度半闓陽入角七度入角四度少去極三十度入角四度少搖光入光四度入角十二度少去極三十五度入角九度
+  hash: sha256:88e1ecdba667af314ae58d5cff6ae3c27cd43c80acc4d9de193c3af959fb4916
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:b833bf479a2bc584587e220fc47674b90d9c64e6e0bc7248e42e3dfbbb125b93

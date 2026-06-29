@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/575
+seq: 575
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 上距平初一百六十二甲子星躔俱差過四宮有半積差一百三十六度九六五九八九五七五八中星為戍亥之交古黃道奎二度一度四六二五日躔在丑寅之交古黃道斗七度六度九六五一四二三三歲差星躔過宮中次統表表
+  hash: sha256:1a0f016f418f701f247a3a65408b667bcb06a7aaedb82b9d8a61c121518e92f8
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:5f64b3d5238c1efa41c76c0c2c12990906e70f4392fb8500a686e301dde1b1a2

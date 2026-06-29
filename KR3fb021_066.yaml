@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/66
+seq: 66
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 七曜起牽牛辨增朔旦冬至辨七曜起營室辨上元必起甲子說三統說三統圖一元十二運積年表增求元八則卷九求元略說上元乾象圖終元乾象圖圖說上元乾象證一十六條步日步月步斗乾坤定位帝座三垣四象辰次分野圖說雲漢圖說五天氣圖說宿起畢昂先天列象三元奇門三白值年禽星
+  hash: sha256:7dd4052f52f2c9193c80741090fa9a0430c6aae56aff4820b7e2ec16029a78b0
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:4277561882c68f85c35c4146b13ff50bae416bc54587fcc2b5f9dcf52de65d98

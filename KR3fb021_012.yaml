@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/12
+seq: 12
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 曆理曆要九重天圓圖說經緯皆左旋說左旋定率卷二測量天地辨虛象說
+  hash: sha256:9e005af1889673be2b27612ce124db6ababa3d85b2ac188f9930e757398d5c7f
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:d18c6db2e3332752952fae92db1c056172f3edc42f81f8710986bd6e821da6ed

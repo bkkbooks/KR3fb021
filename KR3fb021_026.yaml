@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/26
+seq: 26
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 步斗法說步斗定法表卷八天地終始天地始終問曆家上元問書傳上元問上元辨漢書辨
+  hash: sha256:15b6b36272558157a39e6e4d7abbf4e4eacfc957529db194b87c8a32999242c6
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:0f375e54abbfe426e58e1f8c1fc5ddc9338a8abe2c09f6a9c2a1af594f82424c

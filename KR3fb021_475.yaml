@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/475
+seq: 475
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 弊所謂故人有一定之法者其在斯乎爰著上元終元軋象圓以明日月星辰始終之定理則定數由此可信矣而又證以經史微言及二氏餘說見古人已有先我而明其理者原非雍故所獨得而一家之私言若夫漫言天地之數問其理而不能言也求其證據而不可得也是亦自誣以誣人而已矣圖
+  hash: sha256:2e3d67abc090b616f791d4764785ba77a7c1c71f55df63902832a1db19f9b43a
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:31c3363f712710485485b5b9488406356ffc534249991c4c56c88c25ed3bf181

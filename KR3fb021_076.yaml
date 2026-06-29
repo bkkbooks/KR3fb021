@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/76
+seq: 76
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 回回曆歲差消長說氣差定法氣差加合表加合說交蝕說卷十四紅至率說改作差合術之目歲星差合術辨
+  hash: sha256:e272b63aaf36a0bd427dbff3b2d094ab6f63c961cd9eebaee1ca31be37e6ad01
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:58f82cc0107ebdb9037ed4ea432fe99dc8e4861332108f84edb863ca70c22577

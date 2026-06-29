@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/931
+seq: 931
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五之盛軌垂奕葉之鴻休也
+  hash: sha256:4a81fc42b9f4edfa612aa197b95d0bdd6dfe93a5e26c6a3be062c6184787e5dc
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:1570779623b98e8213599d2f8b7bfc33c068965e8d262ec4421001556a6234c0

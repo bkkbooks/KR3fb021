@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/38
+seq: 38
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 歲寶消長説攷古炁差説古暦炁朔攷炁差定法炁應消長加合表炁應加合説卷十四歲星定法第九紀五緯前合應表
+  hash: sha256:3a7c08c58ff99e36bc17018f70ae22655a745425c235d68a4e9d0b339f81e4d3
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:32d4df402994c17441bd746b6330063e6fdffb794ab3684e96186fdd00a413c9

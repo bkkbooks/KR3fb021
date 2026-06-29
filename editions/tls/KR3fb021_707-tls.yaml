@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/707
+seq: 707
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 秀水張雍敬著歲星定法天象運行理之至信而數之一定者也理無今古之異則數又豈有今古之殊故日月薄食為陰陽之大變而上下數千年無不可以宻率求者天道原至信而一定也寧獨歲星古今迵別而不以宻率求哉乃晋人定其率出於舛謬而不自覺後人騐諸象見為差譌而不敢非者變行失次之説淂以自飾其疎而凡於攷騐遲失者即指為天象之變故任其術之疎謬而不知務求精密也今據舊術遠攷漢前幾差一次近騐天象亦差數辰則甚疎可知於是騐者近象攷諸經史上溯開闢下究終元以觀其始終之理
+  hash: sha256:b4789fbbc5673ae9e0609d2e768dae5070ea9645b53f7c4f6f2cd8f936d9e093
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:4b7f279293494f261297f918d3cd566f0983dc11cf787c8f5cab25f31c53e0bc

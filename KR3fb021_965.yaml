@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/965
+seq: 965
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 張雍敬字簡庵秀水也善宣秝玉衡博綜秝法五十六家正秝術之謬四十有四成書一十八卷其說主中術為多裹糧走千里位見梅文鼎僞館授餐逾年於辨論考數百條去異就同歸宇不疑之地惟西人地圖如球之說則不合與梅氏兄弟及汪喬年輩往後辨難三四美善宣城遊學記
+  hash: sha256:2ec3c39345ca7519589ba32378518eaa0d90aebcfca99b6bf24390c75fe8e6b4
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:d1622db6da6e2cb0b50f0dd8dd573300327d788b89c9e9fb94e8a90229593129

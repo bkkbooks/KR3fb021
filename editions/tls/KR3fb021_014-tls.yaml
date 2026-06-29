@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/14
+seq: 14
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雨矩共盤圖弧矢弦圖周髁圖勾股圖渾天舊儀圖渾天真象圖真象圖説天地周徑里寶卷三
+  hash: sha256:a129f7d6898ccabf9e496fb3f6e8efbd427af008904f2e1113ebd502f8d29b51
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:9b88869e396251203da4904f09b7aeba0b32230da5a71d642ac6b568a5fbd629

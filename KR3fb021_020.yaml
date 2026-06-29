@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/20
+seq: 20
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷六星圖說垣宿圖南極圖古今北斗八度不同表古今二十八宿距星去極不同表古宿名說古宿分度星張易位說
+  hash: sha256:9d07b6e19fd0184bff0994802b271dfb53641f21f526466995363f5ffdbc46b2
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:1706a7f9f1e484cb582decb075d0d42627d994a1e01bcdccbe909a75e40bae00

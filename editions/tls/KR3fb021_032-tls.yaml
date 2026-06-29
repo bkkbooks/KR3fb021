@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/32
+seq: 32
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 歲差總説立周法推三正宗堯典玫禧暦辨踈謬卷十一歲差定法歲差星躔過宫中次統表
+  hash: sha256:71dd5bea958f30a56debe0efb82f802d5baad6984c7abc85698ddf70a81012c5
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:ded024f06140675d001afa063dd5af20254d70edf9a8a85f13dbb4e228bd6f8f

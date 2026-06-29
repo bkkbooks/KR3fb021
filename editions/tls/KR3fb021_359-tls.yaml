@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/359
+seq: 359
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 周天定法天周策三百六十五度二五六七三二二一此即經星周率也但在彼為日率而在此則為度率耳消策三百六十五度二五六五九一一二二一長策三百六十五度二五六八六八九二二一消長法詳上篇半周策一百八十二度六二八四三四四六一以下俱就長分筭象限九十一度三一四二一七二三五辰次分三十度四三八七二四一二凡攷古自元恭定甲子前距漢元狩甲子用消策自元狩以上用長策當分別用之始宻餘詳消長定法
+  hash: sha256:2545b92f981ec9c6bae5393749980922d5653e3c494d97bb2d8b8ce684a50cf6
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:25002008b0a3565d6a16d6fa0ad7fac3d35f23d59f94a68f42ddaf650d8976a4

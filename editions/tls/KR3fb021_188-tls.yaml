@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/188
+seq: 188
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 圖以上四圓出周髀莫經乃算法鼻祖欲測天地高深之數非此不得前後篇中所言周髀勾股弦徑弧矢之法必按圖始明故載之其詳具見本經
+  hash: sha256:a07b043574c10664b6114ab61f2d5ad553ca23a727534476f1f6c97ac2029e27
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:5063a5a4d508bb20255cc57a41355373dc1aa69427c54875dc0a751c9a228da0

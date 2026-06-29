@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/881
+seq: 881
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 有庚申襄二十年戊申春王正月辛亥定法天正月詳晦朔攷有辛亥昭三年壬戍春王正月丁未定法天正月朔已亥五六二有丁未二十三年壬午春王正月癸丑定法天正月朔癸夘一四七五有癸丑定六年丁酉春王正月癸亥定法天正月朔丙午二九七四有癸亥以上十一條俱為子正間甞勒成春秋長暦以攷經之當甲子者自隐元年至僖元年凡九十餘條多合丑正僖二年以後凡二百九十餘條多屬子正間有不合者大抵皆文之有悮耳長暦卷帙繁重茲不及備載第舉經之書正者一十八條以見其大槩亦足吾言之非誣矣
+  hash: sha256:efb9088059b4b9d6fc011301e2bfb3e2413f8f5a0fa68039e1a05994630229b6
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:ee624f87427829adfd7d7a56984abc56d47eac1af2e32f17666dc35e818537af

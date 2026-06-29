@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/923
+seq: 923
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 古法凡三十有六有理數一定而萬古不易者渾天法辰次四象四時節氣甲子九章算法圭表壺漏是也有法不無損益而大綱不能出其範圍者日法朔法斗分即周天度蓋天即星圖宿度星紀元法章法閏法刻法旦昏法小正時訓九道法五步法是也有理一而數則變者歲差實度中星是也有最為治曆之要而千古不傳者步月始于出庚步斗是月也有法不行于今而其理斷不知者古三正古三統是也有傳久失真而在所當求者分野五德終始是也有為曆之法用而在于法數之外者明堂明令是也有於古為合而在今不可拘者斗建是也
+  hash: sha256:cfa35b86bba0f33ade84a6cf708a6acbf54c0a1ef9d96cee75edf0378f4bb5a3
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:370440cc4dc994d89f933e7a78f382da3d6090d7c48be776ea1a3ebb7a69dbae

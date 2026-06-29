@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/657
+seq: 657
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 九分相懸一十七刻二十七分蓋自漢遠元皆當之消時已往者易見而之長時在泰定甲子以後將來者難察郭氏雖智亦袛能晰其已然而豈能見其未然哉故謂其下驗消一之非則可𠰥併上考長一之說而非之則不可至于消一長一其數亦未能確合則曆理深微原未易遽淂其真數故曆諸法自漢迄今幾經修改而後密近其創立之初多未免于踈也故謂其消長之數未真則可君研消長之理而疑之則不可今因郭說而為之闡明使無差之法與象差之法並立則歲實淂其真而一定之法於是乎在矣
+  hash: sha256:34fba1e04e3bee540e09d1a012a5317609bc025a9d2e859f13c04451d13ff870
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:2333d9de2505eae5cedd3143bc99f37480fb2cbb7a637dc2ecbf11b7a8593353

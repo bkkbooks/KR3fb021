@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/30
+seq: 30
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 上元乾象圖終元乾象圖圖說上元乾象證三元步日步月步斗三垣四象辰次雲漢上元雲漢圖十二次分野圖分野帝座乾坤定位奇門三白禽星五天氣圖五天氣宿起畢昂先天列象求上元日躔求上元月離求上元五緯所躔求終元經氣應求終元經朔應求終元日躔求終元月離求終元五緯所躔卷十
+  hash: sha256:438e049c682871008e9d26fb86e0ca6945867966545eaacfc6648bf3b1385a4a
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:be1ecd4dc857d0a0376e3327d032d5a8075227b56f4245c11d1125992b45e23e

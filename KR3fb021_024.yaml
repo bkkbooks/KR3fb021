@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/24
+seq: 24
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 斗建說卷七分野說古今十二次分野不同表古今分野宿度入宫不同表古今黃赤道不同說古今黃赤道星度不同表古今黃道宫度多寡深淺不同表測經度說
+  hash: sha256:d95f861652bebecb53d01061fc5bfd1a090839e269a636516d8cd64c7eb749e6
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:4eeeb5d3ffc7c44dd9095d85bcbd476ed6603e533fbb455292c791fef43046b5

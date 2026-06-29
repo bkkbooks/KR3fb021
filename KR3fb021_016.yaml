@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/16
+seq: 16
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 地理大地圖輿地圖天中地中說卷四日遠近辨日無盈縮說日光盛衰說月光盈虛說
+  hash: sha256:d9d919f7f597facabc4b9bd83656ec454988a92bfa7aafdfe9217f05ba0552bc
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:24b58e6b18d629e6d9ee7d5800680bdbbf32a10f81ed93c33177835bb39fb5d9

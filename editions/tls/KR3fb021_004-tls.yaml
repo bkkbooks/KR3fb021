@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十八卷既擇馬而精語焉而詳矣始稽之吳江王寅旭氏繼又往證之宣城梅定九氏凡西洋之言溺于数之中出于理之外傲人以所不知者弗受其惑馬班孟堅曰歴譜者聖人知命之術盖昧者視為器数之學明者知為性命之原自昔習天文有禁而言歴者無禁也是書傳足以仲儒者之氣折泰西之口而王氏梅氏為不孤矣簡菴名雍敬王氏名錫闈梅氏名文鼎皆有歴書秀水朱彝尊序
+  hash: sha256:3d6f8cc87021124ebde7c92d62804ef507315731ea65ede1080504fbc680d180
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:283fad45cb856ccb64902ba52e1d0af0c3ff1aee11fb5a3dd2b8c48c5b895b24

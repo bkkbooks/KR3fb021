@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/72
+seq: 72
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 閏法說閏法策數一元章蔀紀元法數缺一元紀法氣朔積應表第七紀氣朔蔀應章應表第八紀氣朔蔀應章應表第九紀氣朔章應表第十紀氣朔章應表定朔說
+  hash: sha256:425a3cb8a5171aa88e568df0cafdf690d869d1654898d068d7f89dc5e7c7d889
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:458396768b108e4635a3352977e68c8d24cb25bd80dc3515e92efdbf5b685d95

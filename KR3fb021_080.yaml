@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/80
+seq: 80
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 經史歲星考證一十四條歲星在子歲在鶁火歲在星紀歲在娵訾之口歲在析木歲在顓頊之墟歲在豕韋越淂歲太歲在子五星聚東井五星聚箕尾五星聚奎五星聚軫五星聚營室歲星考證說卷十六考春秋晦朔交食說經傳晦朔考借日食共四十三條左傳至朔辨春秋正月辨春秋正月考一十八條卷十七西法定氣辨西法辰次辨九執宫度說西法天度辨
+  hash: sha256:71fbf22cb9066a146f1f4d95a57437ca63e798498ee757fa09d1c9ca5bca39fc
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:6508663fa7d48172a48dbfc1d985bed0836215b5ebe94791a10b30cd17d9edb5

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/132
+seq: 132
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 古聖作易時所見無渄厤理作厤時所見易無黑理誠能見其所以一也
+  hash: sha256:729c8e0d2d91e5629db70042fb149cb560b340c1bcef0225d24adeff3dbcd2b2
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:12ea5dbc3a3c0d2da86620131d82ac5d51e8516c42549cd49e02754fdbf6a03b

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/40
+seq: 40
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 第十紀五緯前合應表歲星差合術辨五星率五星聚井攷太初合應辨太初合應攷證歲在火辨歲在星紀辨攷定歲星新率
+  hash: sha256:edf967851dc436b19504f50e5b894d044b3935fb3f952587f3f353529493acf8
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:5d6fd12274dddacd031c1d1b6de70094fc50dbdaf98fd36b23c4fc888de27abc

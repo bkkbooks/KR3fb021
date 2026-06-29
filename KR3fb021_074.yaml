@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/74
+seq: 74
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷十三考古氣朔說古曆氣朔考證四十六條漢太初曆東漢元和曆乾象曆魏景初曆晋太元曆宋元嘉曆大明曆北魏正光曆北齊天保曆後周天和曆天象曆隋開皇曆皇極曆大業曆唐戊寅曆麟德曆乙巳曆天衍曆五紀曆正元曆宣明曆崇元曆周欽天曆宋應天曆乾元曆儀天曆崇天曆明天曆奉天曆觀天曆紀元曆占天曆金大明曆南宋統元曆乾道曆淳熙曆會元曆統天曆天禧曆淳祐曆會天曆成天曆元庚午曆授時曆明大統曆
+  hash: sha256:fa9eb00d49e2de68ca56d592b359485c527df802b6fa0301485bb99be9fe44e8
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:27d039c43dc777f41de6f5ba110c92d9ac44fa5d684464d101ff5506b236291d

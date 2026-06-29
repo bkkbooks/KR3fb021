@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/613
+seq: 613
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夏世世紀云起丁已終甲午凡四百五十八年竹書云有夏十七王起壬子終壬戍用歲四百三十一年漢志積年相近但甲子不同耳路史云四百八十三年商世世紀云二十七王起乙未終戍寅凡六百四十四年鬻子云二十七王積歲五百七十六至紂國語云商之享世三十一王竹書云自湯至受三十王用歲四百九十六年漢志三十一王六百二十九年周世世紀云起武王乙卯終幽王五年甲子三百四十六年竹書云起武王辛卯至幽王五年甲子二百七十三年三五之世其遠近固難考據至唐虞以後宜若可憑矣而互異如此則甚矣書傳年世之難適從而演紀實度之難真確也而今而後言歲差者可以知所返矣
+  hash: sha256:bec8d0ab7aec94b287f7c0b9c24bcc6932811f5ba6fe3c98f963cce3a02ab5b7
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:a55df965d78233af0e0cc0910c22d7b4ab861bc8e2daa7e9666843eafc148c71

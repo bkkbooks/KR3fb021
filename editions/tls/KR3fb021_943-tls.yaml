@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/943
+seq: 943
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所書乃七十九其間年歲之相合者才二十七又有年合而月不合者雖史氏不無譌謬亦春秋日食少之一證也若夫漢世無預知之法猶春秋也第合天下郡國之所奏報者而書之則於是乎多矣至于唐世推步愈宻開報無失是以愈多耳然則古之日食少乃經史不盡傳也試觀有夏以至東𨕅凡一千四百餘年而見於經者僅有仲康幽王時二事則莫少于此矣其所以淂傳者因有胤候之征詩人之刺故耳設使當日六師不動譏刺不形則併此二事亦莫可攷矣豈真古時食少哉昔人之言殆未求之曆術也𠰥謂至治之世日月不薄食五星皆順軌後世哀𠃶天變乃多則子弒其父臣弒其君春秋之𠃶過於漢唐何以日食及少哉
+  hash: sha256:22ffc628ec9c87613b18ec61cbe0e317d4ef3efc87a2677cf34aab9048c601e5
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:5aa3bd67fdb0c5cfb25a173ef9d5cf79c5906154aa7080ceccb64b5ce0cf933d

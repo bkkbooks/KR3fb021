@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/58
+seq: 58
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 古今北斗入度不同表古今二十八宿距星去極不同表古宿名說古宿分度星張易位說嘴參易位說經星辨經星定法說經星定法
+  hash: sha256:f1403f27d7e2aa9035df96d33cedeb447d0017a9e3435be7cfe84525c94b651d
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:2ddf30bc6b44c6b50c1ddf8736e45129d881f1a651d41183272f651d1a0cbdf4

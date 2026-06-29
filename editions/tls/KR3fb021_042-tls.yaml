@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/42
+seq: 42
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 歲星聚井攷證越得歲歲攷證歲淫元枵攷證歲在豕韋攷證歲在顓頊之墟改證歲在析木攷證歲在娵訾言之口攷證歲在鶁火攷證卷十五
+  hash: sha256:44d8b8df4443a5e6779773d62f1196084bb41a20bccbdccae930128b9f6f1f60
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:3d2a976fbf54a7a3c6469c308dc95632a4045f753f0f7204c83f33ac32c19905

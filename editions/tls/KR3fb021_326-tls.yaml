@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/326
+seq: 326
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 圖南極圖中一層南極圖第二層日南道第三層赤道圖第四層日北道第五層第六層全前圖
+  hash: sha256:992ec3c60eded16cb0e7d60339f478b09a54877860cc6f8513dc5cb8bbd0d79a
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:81ecafffefb9620933221f57e30e4ad24a60e7ae75e16d1964abc666c3038c5b

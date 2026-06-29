@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/56
+seq: 56
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷四西法辨序西法天象辨五則西法月食辨西法朓朒辨西法地球辨十則卷五星圖說垣宿圖二
+  hash: sha256:3c78323d2017a9e5c6544747d38cc6841a41539ead5dfd73a7b5b1f9c2c1e15f
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:de94c6c99f563b73573140aba0d084310e3b45db814fd3a3db3a8c8d651a0384

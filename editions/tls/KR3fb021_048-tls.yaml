@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/48
+seq: 48
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 歲差辨辰次辨天度辨九度辨九執宫度説刻法説卷十八器数考辨五德終始
+  hash: sha256:3788015c790db347f996384ba1807f8d7dd5c6fea37687457e6cc0de460f5209
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:fba78fc6f59ecd11ab46bf12c5ea87f26d1dfc38f2f03497356570debf5fac1c

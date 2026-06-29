@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/44
+seq: 44
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五步暦率説五星入律掟法經史歲星新率攷證歲星在子歲在鶁火歲在星紀歲在娵訾之口歲在析木歲在顓頊之虛歲在豕韋越得歲太歲在于歲星攷證説五星聚東井五星聚尾箕五星降奎五星聚軫五星聚營室
+  hash: sha256:06ba707d8fb95921da3c4bc9fa596ab58a52dd4960fbbf93051642ccf4f924e3
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:20c0e86cb7d84e30cd07f7acedb5d765745fa03352dd72fae5869762b4cfed7a

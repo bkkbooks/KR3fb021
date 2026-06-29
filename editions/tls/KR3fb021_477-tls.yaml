@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/477
+seq: 477
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 圖太陽躔大梁之次參旗二度古赤道畢五度太陰躔實沈之次狼三度故赤道井十二度歲星躔實沈之次參旗十五度古赤道嘴二度熒惑躔壽星之次角六度填星躔壽星之次角五度太白躔首之次弧三度古赤道井十七度辰星躔實沈之次罰十二度古赤道井三度中星為赤道午正南斗七度古赤道七星七度以上為上元七政所躔中星所起度
+  hash: sha256:a76cac3ed23de4630a37956ed70fb5299712cc6eaa419ad5049dd81cd110ec4a
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:6fadde74f0ae18708ee6f71e04591707ac936edfa4e6a4c698002247940a9026

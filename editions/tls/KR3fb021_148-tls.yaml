@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb021/tls/v1/juan/148
+seq: 148
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 圖圖説積氣為天大其體穆穆其色蒼蒼盈天地閒皆生氣也蒼者生氣之本色遠望黄山而皆青亦是生氣之積其命不已其機不息色倉編覆之謂天無為而成之謂神過而不留之謂化信而有恒之謂貞圜則九重陽以包陰經星土木火日五重為陽春秋說題辨曰星者陽之榮也陽精為日日分為星故宇從日生来子曰經星卻是陽氣之蝕凝結者蓋經星雖陰陽五行相禮而大段則屬於陽
+  hash: sha256:06ef27b23461b3310b6856d08d6c11ebf1bed73ccbde1a612ac7af944920040b
+metadata:
+  title: 定歷玉衡
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb021.xml
+hash: sha256:50da5c588754cfb51c7ae54f04cc77d20c853363850db0560410062eff1b614a
