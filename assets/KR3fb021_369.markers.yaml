@@ -10,7 +10,6 @@ markers:
   - {type: punctuation, offset: 8, content: ·, id: KR3fb021_tls_369-bkkpn1}
   - {type: 'tls:seg', offset: 12, content: '', id: KR3fb021_tls_001-p168.s3}
   - {type: line-break, offset: 12, content: '', id: KX_3_dup166, _xml_error: duplicate-id, _xml_original_id: KX_3}
-  - {type: substitution, offset: 14, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
   - {type: 'tls:seg', offset: 15, content: '', id: KR3fb021_tls_001-p168.s4}
   - {type: line-break, offset: 15, content: '', id: KX_4_dup166, _xml_error: duplicate-id, _xml_original_id: KX_4}
   - {type: 'tls:seg', offset: 35, content: '', id: KR3fb021_tls_001-p168.s5}
@@ -29,8 +28,6 @@ markers:
   - {type: line-break, offset: 155, content: '', id: KX_12_dup158, _xml_error: duplicate-id, _xml_original_id: KX_12}
   - {type: 'tls:seg', offset: 175, content: '', id: KR3fb021_tls_001-p168.s13}
   - {type: line-break, offset: 175, content: '', id: KX_13_dup157, _xml_error: duplicate-id, _xml_original_id: KX_13}
-  - {type: substitution, offset: 175, original: 离, replacement: 離, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0983}}
-  - {type: substitution, offset: 191, original: 𦍤, replacement: 翔, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3388}}
   - {type: 'tls:seg', offset: 195, content: '', id: KR3fb021_tls_001-p168.s14}
   - {type: line-break, offset: 195, content: '', id: KX_14_dup153, _xml_error: duplicate-id, _xml_original_id: KX_14}
   - {type: 'tls:seg', offset: 215, content: '', id: KR3fb021_tls_001-p168.s15}
@@ -44,4 +41,4 @@ markers:
   - {type: 'tls:seg', offset: 295, content: '', id: KR3fb021_tls_001-p168.s19}
   - {type: line-break, offset: 295, content: '', id: KX_19_dup142, _xml_error: duplicate-id, _xml_original_id: KX_19}
   back: []
-hash: sha256:568ca767b686f7f3213c20966c7356aca41608d67ff1de9ea3b74330fedcbda6
+hash: sha256:99803a371e2427fb063ffba219394d87960013172c6c34b4566aafffd8359d6a

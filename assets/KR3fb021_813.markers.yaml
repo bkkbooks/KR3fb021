@@ -47,7 +47,6 @@ markers:
   - {type: line-break, offset: 169, content: '', id: KR3fb021_tls_813-bkklb4}
   - {type: 'tls:seg-end', offset: 173, content: '', id: KR3fb021_tls_001-p390.s11.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 173, content: '', id: KR3fb021_tls_001-p390.s11.3}
-  - {type: substitution, offset: 173, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4527}}
   - {type: 'tls:seg', offset: 177, content: '', id: KR3fb021_tls_001-p390.s12}
   - {type: line-break, offset: 177, content: '', id: KX_12_dup346, _xml_error: duplicate-id, _xml_original_id: KX_12}
   - {type: 'tls:seg', offset: 197, content: '', id: KR3fb021_tls_001-p390.s13}
@@ -78,8 +77,5 @@ markers:
   - {type: line-break, offset: 301, content: '', id: KR3fb021_tls_813-bkklb6}
   - {type: 'tls:seg-end', offset: 302, content: '', id: KR3fb021_tls_001-p390.s19.1_end, seg_type: comm}
   - {type: 'tls:seg', offset: 302, content: '', id: KR3fb021_tls_001-p390.s19.2}
-  - {type: substitution, offset: 308, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1129}}
-  - {type: substitution, offset: 312, original: 筭, replacement: 算, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3838}}
-  - {type: substitution, offset: 318, original: 宻, replacement: 密, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3073}}
   back: []
-hash: sha256:105e226c70de86d8c19cbb89b9a5e45b017c6ff0eb7c51b02685dfe90a6504a4
+hash: sha256:4c773474c8950845e3aa5f41b2d978814f70f3069948c28f62f721d6a5327859

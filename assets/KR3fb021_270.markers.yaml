@@ -7,13 +7,10 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KX_1_dup111, _xml_error: duplicate-id, _xml_original_id: KX_1}
   - {type: 'tls:seg', offset: 5, content: '', id: KR3fb021_tls_001-p119.s2}
   - {type: line-break, offset: 5, content: '', id: KX_2_dup118, _xml_error: duplicate-id, _xml_original_id: KX_2}
-  - {type: substitution, offset: 10, original: 甞, replacement: 嘗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0709}}
-  - {type: substitution, offset: 23, original: 覧, replacement: 覽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4469}}
   - {type: 'tls:seg', offset: 24, content: '', id: KR3fb021_tls_001-p119.s3}
   - {type: line-break, offset: 24, content: '', id: KX_3_dup117, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: 'tls:seg', offset: 43, content: '', id: KR3fb021_tls_001-p119.s4}
   - {type: line-break, offset: 43, content: '', id: KX_4_dup117, _xml_error: duplicate-id, _xml_original_id: KX_4}
-  - {type: substitution, offset: 43, original: 週, replacement: 周, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0563}}
   - {type: 'tls:seg', offset: 62, content: '', id: KR3fb021_tls_001-p119.s5}
   - {type: line-break, offset: 62, content: '', id: KX_5_dup115, _xml_error: duplicate-id, _xml_original_id: KX_5}
   - {type: 'tls:seg', offset: 81, content: '', id: KR3fb021_tls_001-p119.s6}
@@ -43,4 +40,4 @@ markers:
   - {type: 'tls:seg', offset: 309, content: '', id: KR3fb021_tls_001-p119.s19}
   - {type: line-break, offset: 309, content: '', id: KX_19_dup101, _xml_error: duplicate-id, _xml_original_id: KX_19}
   back: []
-hash: sha256:1c2d0f27ce1fef60b7abde7e494fbe0ea7e08d6dca2cbb78514f563c8854c809
+hash: sha256:23850f90fa0d8f3625cdb0416257db4f3291290274a2c21f5bd7f6aa56f870f7

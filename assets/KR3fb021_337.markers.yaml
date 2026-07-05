@@ -18,7 +18,6 @@ markers:
   - {type: line-break, offset: 16, content: '', id: KR3fb021_tls_337-bkklb3}
   - {type: 'tls:seg-end', offset: 17, content: '', id: KR3fb021_tls_001-p152.s1.5_end, seg_type: comm}
   - {type: 'tls:seg', offset: 17, content: '', id: KR3fb021_tls_001-p152.s1.6}
-  - {type: substitution, offset: 22, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1129}}
   - {type: 'tls:seg', offset: 24, content: '', id: KR3fb021_tls_001-p152.s2}
   - {type: line-break, offset: 24, content: '', id: KX_2_dup151, _xml_error: duplicate-id, _xml_original_id: KX_2}
   - {type: 'tls:seg', offset: 44, content: '', id: KR3fb021_tls_001-p152.s3}
@@ -31,7 +30,6 @@ markers:
   - {type: line-break, offset: 104, content: '', id: KX_6_dup147, _xml_error: duplicate-id, _xml_original_id: KX_6}
   - {type: 'tls:seg', offset: 124, content: '', id: KR3fb021_tls_001-p152.s7.1}
   - {type: line-break, offset: 124, content: '', id: KX_7_dup147, _xml_error: duplicate-id, _xml_original_id: KX_7}
-  - {type: substitution, offset: 129, original: 剏, replacement: 創, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0205}}
   - {type: 'tls:seg-start', offset: 132, content: '', id: KR3fb021_tls_001-p152.s7.2, seg_type: comm, member_ids: [KR3fb021_tls_001-p152.s7.2]}
   - {type: 'tls:seg', offset: 132, content: '', id: KR3fb021_tls_001-p152.s7.2}
   - {type: line-break, offset: 134, content: '', id: KR3fb021_tls_337-bkklb4}
@@ -146,4 +144,4 @@ markers:
   - {type: 'tls:seg', offset: 315, content: '', id: KR3fb021_tls_001-p152.s19.4}
   - {type: line-break, offset: 321, content: '', id: KR3fb021_tls_337-bkklb10}
   back: []
-hash: sha256:55d40bc1959bdab852b1182a8752700a4da78d76d608665abd77486142c8256b
+hash: sha256:e78ac4bec631e225aef0c7cf77a86461f8f337b1207ad34595cff597ac575cf2

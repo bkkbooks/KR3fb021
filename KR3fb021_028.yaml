@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 七曜同起辨朔旦冬至辨上元必起甲子辨七曜在營室辨卷九三統說三統圖一元十二運積年表上元乾象圖序
-  hash: sha256:d1f90050befc03e347c4b6d9d84aec847a6f6130b2b3d0747ad3d7e169148164
+  text: 七曜同起辨朔旦冬至辨上元必起甲子辨七曜在營室辨卷九三統説三統圖一元十二運積年表上元乾象圖序
+  hash: sha256:66c571efd7c45519152e197ce3e0c53228d6a7180c4d98ce88571e4df4b7e916
 metadata:
   title: 定歷玉衡
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb021.xml
-hash: sha256:e3908e16f9412f5f8ef216513a6a88a803e3e68f131270de00e702f9e3cfab68
+hash: sha256:2d8cb022b92886ad94edd7666953b886b7b1a5f345f0433436ca019965415f28

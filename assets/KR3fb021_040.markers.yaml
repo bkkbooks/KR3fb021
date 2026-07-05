@@ -11,12 +11,10 @@ markers:
   - {type: line-break, offset: 15, content: '', id: KX_3_dup13, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: 'tls:seg', offset: 18, content: '', id: KR3fb021_tls_001-p13.s4}
   - {type: line-break, offset: 18, content: '', id: KX_4_dup13, _xml_error: duplicate-id, _xml_original_id: KX_4}
-  - {type: substitution, offset: 22, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
   - {type: 'tls:seg', offset: 23, content: '', id: KR3fb021_tls_001-p13.s5}
   - {type: line-break, offset: 23, content: '', id: KX_5_dup13, _xml_error: duplicate-id, _xml_original_id: KX_5}
   - {type: 'tls:seg', offset: 28, content: '', id: KR3fb021_tls_001-p13.s6}
   - {type: line-break, offset: 28, content: '', id: KX_6_dup13, _xml_error: duplicate-id, _xml_original_id: KX_6}
-  - {type: substitution, offset: 32, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
   - {type: 'tls:seg', offset: 34, content: '', id: KR3fb021_tls_001-p13.s7}
   - {type: line-break, offset: 34, content: '', id: KX_7_dup13, _xml_error: duplicate-id, _xml_original_id: KX_7}
   - {type: punctuation, offset: 36, content: □, id: KR3fb021_tls_040-bkkpn1}
@@ -24,6 +22,5 @@ markers:
   - {type: line-break, offset: 38, content: '', id: KX_8_dup13, _xml_error: duplicate-id, _xml_original_id: KX_8}
   - {type: 'tls:seg', offset: 43, content: '', id: KR3fb021_tls_001-p13.s9}
   - {type: line-break, offset: 43, content: '', id: KX_9_dup12, _xml_error: duplicate-id, _xml_original_id: KX_9}
-  - {type: substitution, offset: 43, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
   back: []
-hash: sha256:2c12e47b435206af0d90b86df0475b00a0d2f1dce3c4ac24c6fbe2789e0a6c5e
+hash: sha256:f0d4563675d006facb346f1236bf9f9a241749d4bd660172ebac37c1f816c4bd

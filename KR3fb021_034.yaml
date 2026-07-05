@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 中星日躔歲差年表歲差寶度簡明表帝王年世卷十二經氣說氣策定法經朔定法說經朔策數一元閏法
-  hash: sha256:4979ed9639e5a38930981a0c301fedfb6912b5aee29ad68935720d569b4c0351
+  text: 中星日躔歲差年表歲差寶度簡明表帝王年世卷十二經炁説炁策定法經朔定法説經朔策数一元閏法
+  hash: sha256:e10de945c3754c30df3e8cd8f231e72a739d719a82bf41022f75a33f5178a18c
 metadata:
   title: 定歷玉衡
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb021.xml
-hash: sha256:d04b0dccc32b6d4c4c9e6e94088fe713129c04cc7b487633e5a9b3e1274110bd
+hash: sha256:7784562ee29b089f6d068ccce46625e6c8c83d9689d86e91b662adfd6694e527

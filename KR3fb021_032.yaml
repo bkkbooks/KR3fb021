@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 歲差總說立周法推三正宗堯典玫禧曆辨踈謬卷十一歲差定法歲差星躔過宫中次統表
-  hash: sha256:26c6db9a781d1ccfe55da24ab00a5ebbb9b0bfcdf45642fa9dd55a18cbde020c
+  text: 歲差總説立周法推三正宗堯典玫禧暦辨踈謬卷十一歲差定法歲差星躔過宫中次統表
+  hash: sha256:71dd5bea958f30a56debe0efb82f802d5baad6984c7abc85698ddf70a81012c5
 metadata:
   title: 定歷玉衡
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb021.xml
-hash: sha256:5a43ca75cc353d319a8cbd432e5a21b45797b3b45621a43d1b297f52f909acb3
+hash: sha256:ded024f06140675d001afa063dd5af20254d70edf9a8a85f13dbb4e228bd6f8f

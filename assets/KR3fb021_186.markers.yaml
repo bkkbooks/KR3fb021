@@ -11,14 +11,12 @@ markers:
   - {type: line-break, offset: 40, content: '', id: KX_3_dup76, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: 'tls:seg', offset: 46, content: '', id: KR3fb021_tls_001-p77.s4}
   - {type: line-break, offset: 46, content: '', id: KX_4_dup76, _xml_error: duplicate-id, _xml_original_id: KX_4}
-  - {type: substitution, offset: 48, original: 説, replacement: 說, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3528}}
   - {type: 'tls:seg', offset: 65, content: '', id: KR3fb021_tls_001-p77.s5}
   - {type: line-break, offset: 65, content: '', id: KX_5_dup76, _xml_error: duplicate-id, _xml_original_id: KX_5}
   - {type: 'tls:seg', offset: 84, content: '', id: KR3fb021_tls_001-p77.s6}
   - {type: line-break, offset: 84, content: '', id: KX_6_dup76, _xml_error: duplicate-id, _xml_original_id: KX_6}
   - {type: 'tls:seg', offset: 103, content: '', id: KR3fb021_tls_001-p77.s7}
   - {type: line-break, offset: 103, content: '', id: KX_7_dup76, _xml_error: duplicate-id, _xml_original_id: KX_7}
-  - {type: substitution, offset: 105, original: 觧, replacement: 解, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3270}}
   - {type: 'tls:seg', offset: 122, content: '', id: KR3fb021_tls_001-p77.s8}
   - {type: line-break, offset: 122, content: '', id: KX_8_dup76, _xml_error: duplicate-id, _xml_original_id: KX_8}
   - {type: 'tls:seg', offset: 141, content: '', id: KR3fb021_tls_001-p77.s9.1}
@@ -30,4 +28,4 @@ markers:
   - {type: 'tls:seg', offset: 163, content: '', id: KR3fb021_tls_001-p77.s11}
   - {type: line-break, offset: 163, content: '', id: KX_11_dup75, _xml_error: duplicate-id, _xml_original_id: KX_11}
   back: []
-hash: sha256:23273bbdb68d9e30830cb684b31a1d86aa80449c9b16c453105d9f85a33b5969
+hash: sha256:f3f3e2ba6223ec34daacb89b68a01398b3296a7650c6b6231b604e789b8d4abd

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 渾儀律琯候氣辨交食說五行之序三易先天後天辨辨大小闊狹論歲寶消長
-  hash: sha256:02e9f32fc220fdb3d2834aef73ea8a481eedf72e7afe559a8284d461e3e01415
+  text: 渾儀律琯候氣辨交食説五行之序三易先天後天辨辨大小闊狹論歲寶消長
+  hash: sha256:fb47fe2a2991bb1519680e353ab8ccc9315502f5a9bab6734c2e7a3bb83a2121
 metadata:
   title: 定歷玉衡
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb021.xml
-hash: sha256:5c8da961acebf8e14054fe464d90d90f6114f2bdd72a7f6a702909072c13278a
+hash: sha256:4aa0a1d3af8a6cb5ddc43a355788e7c13bdd3f9c337cf629692b438eadaaafcf

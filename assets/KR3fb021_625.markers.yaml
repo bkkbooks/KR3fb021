@@ -5,7 +5,6 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fb021_tls_001-p296.s1}
   - {type: line-break, offset: 0, content: '', id: KX_1_dup280, _xml_error: duplicate-id, _xml_original_id: KX_1}
-  - {type: substitution, offset: 2, original: 炁, replacement: 氣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3104}}
   - {type: 'tls:seg', offset: 8, content: '', id: KR3fb021_tls_001-p296.s2.1}
   - {type: line-break, offset: 8, content: '', id: KX_2_dup271, _xml_error: duplicate-id, _xml_original_id: KX_2}
   - {type: 'tls:seg-start', offset: 12, content: '', id: KR3fb021_tls_001-p296.s2.2, seg_type: comm, member_ids: [KR3fb021_tls_001-p296.s2.2]}
@@ -58,7 +57,6 @@ markers:
   - {type: 'tls:seg-end', offset: 206, content: '', id: KR3fb021_tls_001-p296.s16.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 206, content: '', id: KR3fb021_tls_001-p296.s17}
   - {type: line-break, offset: 206, content: '', id: KX_17_dup241, _xml_error: duplicate-id, _xml_original_id: KX_17}
-  - {type: substitution, offset: 210, original: 炁, replacement: 氣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3104}}
   - {type: 'tls:seg', offset: 215, content: '', id: KR3fb021_tls_001-p296.s18.1}
   - {type: line-break, offset: 215, content: '', id: KX_18_dup240, _xml_error: duplicate-id, _xml_original_id: KX_18}
   - {type: 'tls:seg-start', offset: 217, content: '', id: KR3fb021_tls_001-p296.s18.2, seg_type: comm, member_ids: [KR3fb021_tls_001-p296.s18.2]}
@@ -73,4 +71,4 @@ markers:
   - {type: punctuation, offset: 244, content: ０, id: KR3fb021_tls_625-bkkpn9}
   - {type: line-break, offset: 246, content: '', id: KR3fb021_tls_625-bkklb5}
   back: []
-hash: sha256:dfbc21632f2b1f2601988cdd3d2a59fa28bebb72892d0abd324cea27a6032461
+hash: sha256:8ea9d53a4dae5cabb5515be7575e0246309bc84c4689321da6d90358714a12c4

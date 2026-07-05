@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 星宿光魄說卷五西法辨小序西法天象辨朓朒辨月食辨西法地球圖地與海圖地輿海圖說
-  hash: sha256:57e13ac6c7baaa9b7cbd337d2df7465e9cf2a5019fdabc62bab9503ca97451ea
+  text: 星宿光魄説卷五西法辨小序西法天象辨朓朒辨月食辨西法地球圖地與海圖地輿海圖説
+  hash: sha256:b7b65c58fd8d54b39ae99e20780f339b31fee314776d59bedf6351ad5a297edd
 metadata:
   title: 定歷玉衡
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb021.xml
-hash: sha256:e2e59986c88e6444935a3b9699963e61f86e4798c0b35434908c7cb642e4f8cb
+hash: sha256:14b94d95f2437c2932fd05b1f6846dd013106967e529f55d95d83802e01edb11

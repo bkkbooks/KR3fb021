@@ -108,7 +108,6 @@ markers:
   - {type: line-break, offset: 264, content: '', id: KR3fb021_tls_639-bkklb15}
   - {type: 'tls:seg-end', offset: 266, content: '', id: KR3fb021_tls_001-p303.s8.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 266, content: '', id: KR3fb021_tls_001-p303.s8.3}
-  - {type: substitution, offset: 267, original: 夘, replacement: 卯, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0105}}
   - {type: 'tls:seg-start', offset: 268, content: '', id: KR3fb021_tls_001-p303.s8.4, seg_type: comm, member_ids: [KR3fb021_tls_001-p303.s8.4]}
   - {type: 'tls:seg', offset: 268, content: '', id: KR3fb021_tls_001-p303.s8.4}
   - {type: punctuation, offset: 271, content: 〇, id: KR3fb021_tls_639-bkkpn22}
@@ -229,7 +228,6 @@ markers:
   - {type: 'tls:seg-start', offset: 606, content: '', id: KR3fb021_tls_001-p303.s18.4, seg_type: comm, member_ids: [KR3fb021_tls_001-p303.s18.4]}
   - {type: 'tls:seg', offset: 606, content: '', id: KR3fb021_tls_001-p303.s18.4}
   - {type: line-break, offset: 619, content: '', id: KR3fb021_tls_639-bkklb34}
-  - {type: substitution, offset: 621, original: 夘, replacement: 卯, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0105}}
   - {type: punctuation, offset: 624, content: 〇, id: KR3fb021_tls_639-bkkpn40}
   - {type: punctuation, offset: 624, content: 〇, id: KR3fb021_tls_639-bkkpn41}
   - {type: 'tls:seg-end', offset: 630, content: '', id: KR3fb021_tls_001-p303.s18.4_end, seg_type: comm}
@@ -248,4 +246,4 @@ markers:
   - {type: punctuation, offset: 662, content: 〇, id: KR3fb021_tls_639-bkkpn44}
   - {type: punctuation, offset: 662, content: 〇, id: KR3fb021_tls_639-bkkpn45}
   back: []
-hash: sha256:7094558efb930bbf73b0a6de88d4535a0e60b449eece67946f030145d285d6ac
+hash: sha256:bee3415209140a71e592843f2fffa95d2a95600a0864e43dfac11a3eb0e8cc38

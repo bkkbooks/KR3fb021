@@ -34,13 +34,10 @@ markers:
   - {type: line-break, offset: 210, content: '', id: KX_14_dup204, _xml_error: duplicate-id, _xml_original_id: KX_14}
   - {type: 'tls:seg', offset: 230, content: '', id: KR3fb021_tls_001-p236.s15}
   - {type: line-break, offset: 230, content: '', id: KX_15_dup202, _xml_error: duplicate-id, _xml_original_id: KX_15}
-  - {type: substitution, offset: 231, original: 邕, replacement: 雍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4132}}
   - {type: 'tls:seg', offset: 250, content: '', id: KR3fb021_tls_001-p236.s16}
   - {type: line-break, offset: 250, content: '', id: KX_16_dup202, _xml_error: duplicate-id, _xml_original_id: KX_16}
-  - {type: substitution, offset: 262, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
   - {type: 'tls:seg', offset: 270, content: '', id: KR3fb021_tls_001-p236.s17}
   - {type: line-break, offset: 270, content: '', id: KX_17_dup197, _xml_error: duplicate-id, _xml_original_id: KX_17}
-  - {type: substitution, offset: 270, original: 迴, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3886}}
   - {type: 'tls:seg', offset: 290, content: '', id: KR3fb021_tls_001-p236.s18.1}
   - {type: line-break, offset: 290, content: '', id: KX_18_dup196, _xml_error: duplicate-id, _xml_original_id: KX_18}
   - {type: 'tls:seg-start', offset: 306, content: '', id: KR3fb021_tls_001-p236.s18.2, seg_type: comm, member_ids: [KR3fb021_tls_001-p236.s18.2]}
@@ -51,4 +48,4 @@ markers:
   - {type: 'tls:seg', offset: 312, content: '', id: KR3fb021_tls_001-p236.s19}
   - {type: line-break, offset: 312, content: '', id: KX_19_dup189, _xml_error: duplicate-id, _xml_original_id: KX_19}
   back: []
-hash: sha256:34b74cf47ce82fdaa308ab1d9bdc815804018a4ee5ce2a5bf55f236bea9f19f9
+hash: sha256:dd58b96f84918e7fd8165eb39c5348c0ad1baf0e7ddca3c31e66aeb7ea7207a6

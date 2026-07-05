@@ -45,8 +45,6 @@ markers:
   - {type: line-break, offset: 162, content: '', id: KX_8_dup174, _xml_error: duplicate-id, _xml_original_id: KX_8}
   - {type: 'tls:seg', offset: 181, content: '', id: KR3fb021_tls_001-p181.s9}
   - {type: line-break, offset: 181, content: '', id: KX_9_dup173, _xml_error: duplicate-id, _xml_original_id: KX_9}
-  - {type: substitution, offset: 186, original: 乗, replacement: 乘, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0938}}
-  - {type: substitution, offset: 189, original: 攷, replacement: 考, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0137}}
   - {type: 'tls:seg', offset: 200, content: '', id: KR3fb021_tls_001-p181.s11}
   - {type: line-break, offset: 200, content: '', id: KX_11_dup173, _xml_error: duplicate-id, _xml_original_id: KX_11}
   - {type: 'tls:seg', offset: 219, content: '', id: KR3fb021_tls_001-p181.s12}
@@ -55,10 +53,8 @@ markers:
   - {type: line-break, offset: 238, content: '', id: KX_13_dup168, _xml_error: duplicate-id, _xml_original_id: KX_13}
   - {type: 'tls:seg', offset: 257, content: '', id: KR3fb021_tls_001-p181.s14}
   - {type: line-break, offset: 257, content: '', id: KX_14_dup163, _xml_error: duplicate-id, _xml_original_id: KX_14}
-  - {type: substitution, offset: 261, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1129}}
   - {type: 'tls:seg', offset: 276, content: '', id: KR3fb021_tls_001-p181.s15}
   - {type: line-break, offset: 276, content: '', id: KX_15_dup162, _xml_error: duplicate-id, _xml_original_id: KX_15}
-  - {type: substitution, offset: 291, original: 暦, replacement: 曆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4503}}
   - {type: 'tls:seg', offset: 295, content: '', id: KR3fb021_tls_001-p181.s16}
   - {type: line-break, offset: 295, content: '', id: KX_16_dup162, _xml_error: duplicate-id, _xml_original_id: KX_16}
   - {type: 'tls:seg', offset: 297, content: '', id: KR3fb021_tls_001-p181.s17}
@@ -77,4 +73,4 @@ markers:
   - {type: 'tls:seg', offset: 341, content: '', id: KR3fb021_tls_001-p181.s19}
   - {type: line-break, offset: 341, content: '', id: KX_19_dup150, _xml_error: duplicate-id, _xml_original_id: KX_19}
   back: []
-hash: sha256:723d61c672e642cf79d40d9cea8d848f9e15185b539b9bc7e1f12c6a0ebeb1fa
+hash: sha256:10d6378a13eccfc4e388fbaf2722d3f5c83b66c59595c70202cef69ef6e4dfc6

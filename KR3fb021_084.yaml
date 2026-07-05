@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 星宿光魄說五行之序三易先天後天辨
-  hash: sha256:e90eb2403161829e9ddfece2478314736293efe27469d240815293d6adc51f5d
+  text: 星宿光魄説五行之序三易先天後天辨
+  hash: sha256:a5d8eec88801f59142ce7cf4ab3a7b3288137d1ad2f0aa9ad1dbea328d36b5a5
 metadata:
   title: 定歷玉衡
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb021.xml
-hash: sha256:d27efe361696a33a2c244cf9adaf58c44ebd9f1a36115d540097d491f098b306
+hash: sha256:4be29acb7dc2bc938c87fa71c88f4610d143da93a0055c0c12a6618a9479bbe9

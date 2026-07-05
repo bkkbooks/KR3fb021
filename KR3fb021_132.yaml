@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 古聖作易時所見無渄曆理作曆時所見易無黑理誠能見其所以一也
-  hash: sha256:c5b3333e72c371df880eb577b360fb74bfd95227a07cf0bd28bb87690ce53f78
+  text: 古聖作易時所見無渄厤理作厤時所見易無黑理誠能見其所以一也
+  hash: sha256:729c8e0d2d91e5629db70042fb149cb560b340c1bcef0225d24adeff3dbcd2b2
 metadata:
   title: 定歷玉衡
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb021.xml
-hash: sha256:402bca19b4897807ff3f22cebe1a18cca5252c4a9942327badeb2c3e564b38e1
+hash: sha256:12ea5dbc3a3c0d2da86620131d82ac5d51e8516c42549cd49e02754fdbf6a03b
