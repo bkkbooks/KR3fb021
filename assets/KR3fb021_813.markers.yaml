@@ -47,6 +47,7 @@ markers:
   - {type: line-break, offset: 169, content: '', id: KR3fb021_tls_813-bkklb4}
   - {type: 'tls:seg-end', offset: 173, content: '', id: KR3fb021_tls_001-p390.s11.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 173, content: '', id: KR3fb021_tls_001-p390.s11.3}
+  - {type: substitution, offset: 173, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20807}}
   - {type: 'tls:seg', offset: 177, content: '', id: KR3fb021_tls_001-p390.s12}
   - {type: line-break, offset: 177, content: '', id: KX_12_dup346, _xml_error: duplicate-id, _xml_original_id: KX_12}
   - {type: 'tls:seg', offset: 197, content: '', id: KR3fb021_tls_001-p390.s13}
@@ -77,5 +78,8 @@ markers:
   - {type: line-break, offset: 301, content: '', id: KR3fb021_tls_813-bkklb6}
   - {type: 'tls:seg-end', offset: 302, content: '', id: KR3fb021_tls_001-p390.s19.1_end, seg_type: comm}
   - {type: 'tls:seg', offset: 302, content: '', id: KR3fb021_tls_001-p390.s19.2}
+  - {type: substitution, offset: 308, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17353}}
+  - {type: substitution, offset: 312, original: 筭, replacement: 算, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20121}}
+  - {type: substitution, offset: 318, original: 宻, replacement: 密, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19356}}
   back: []
-hash: sha256:4c773474c8950845e3aa5f41b2d978814f70f3069948c28f62f721d6a5327859
+hash: sha256:19d667eaffa24395a0d43615f9e3acf09290acab11fdd027338826ff56ac7da5

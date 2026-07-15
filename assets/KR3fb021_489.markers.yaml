@@ -14,6 +14,7 @@ markers:
   - {type: 'tls:seg', offset: 38, content: '', id: KR3fb021_tls_001-p228.s2.3}
   - {type: 'tls:seg', offset: 42, content: '', id: KR3fb021_tls_001-p228.s3}
   - {type: line-break, offset: 42, content: '', id: KX_3_dup215, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: substitution, offset: 51, original: 暦, replacement: 曆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20783}}
   - {type: 'tls:seg', offset: 61, content: '', id: KR3fb021_tls_001-p228.s4}
   - {type: line-break, offset: 61, content: '', id: KX_4_dup215, _xml_error: duplicate-id, _xml_original_id: KX_4}
   - {type: 'tls:seg', offset: 80, content: '', id: KR3fb021_tls_001-p228.s5}
@@ -62,4 +63,4 @@ markers:
   - {type: 'tls:seg-end', offset: 336, content: '', id: KR3fb021_tls_001-p228.s19.1_end, seg_type: comm}
   - {type: 'tls:seg', offset: 336, content: '', id: KR3fb021_tls_001-p228.s19.2}
   back: []
-hash: sha256:eaa1b9906d51c79f0450608200a827ec647d90985de11dfbb3485c186bd6a4ac
+hash: sha256:bf786f5a6ecbb320f09b0bd34d5de86eb70905e03b52b380ae9ac2a3d04bbb75

@@ -5,6 +5,7 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fb021_tls_001-p175.s1}
   - {type: line-break, offset: 0, content: '', id: KX_1_dup164, _xml_error: duplicate-id, _xml_original_id: KX_1}
+  - {type: substitution, offset: 2, original: 暦, replacement: 曆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20783}}
   - {type: 'tls:seg', offset: 19, content: '', id: KR3fb021_tls_001-p175.s2}
   - {type: line-break, offset: 19, content: '', id: KX_2_dup173, _xml_error: duplicate-id, _xml_original_id: KX_2}
   - {type: 'tls:seg', offset: 38, content: '', id: KR3fb021_tls_001-p175.s3}
@@ -17,6 +18,7 @@ markers:
   - {type: line-break, offset: 95, content: '', id: KX_6_dup169, _xml_error: duplicate-id, _xml_original_id: KX_6}
   - {type: 'tls:seg', offset: 114, content: '', id: KR3fb021_tls_001-p175.s7}
   - {type: line-break, offset: 114, content: '', id: KX_7_dup169, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: substitution, offset: 121, original: 暦, replacement: 曆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20783}}
   - {type: 'tls:seg', offset: 133, content: '', id: KR3fb021_tls_001-p175.s8}
   - {type: line-break, offset: 133, content: '', id: KX_8_dup169, _xml_error: duplicate-id, _xml_original_id: KX_8}
   - {type: 'tls:seg', offset: 138, content: '', id: KR3fb021_tls_001-p175.s9}
@@ -25,10 +27,15 @@ markers:
   - {type: line-break, offset: 158, content: '', id: KX_11_dup168, _xml_error: duplicate-id, _xml_original_id: KX_11}
   - {type: 'tls:seg', offset: 178, content: '', id: KR3fb021_tls_001-p175.s12}
   - {type: line-break, offset: 178, content: '', id: KX_12_dup164, _xml_error: duplicate-id, _xml_original_id: KX_12}
+  - {type: substitution, offset: 183, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17353}}
   - {type: 'tls:seg', offset: 198, content: '', id: KR3fb021_tls_001-p175.s13}
   - {type: line-break, offset: 198, content: '', id: KX_13_dup163, _xml_error: duplicate-id, _xml_original_id: KX_13}
+  - {type: substitution, offset: 203, original: 暦, replacement: 曆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20783}}
+  - {type: substitution, offset: 206, original: 絕, replacement: 絶, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20837}}
+  - {type: substitution, offset: 211, original: 騐, replacement: 驗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17258}}
   - {type: 'tls:seg', offset: 218, content: '', id: KR3fb021_tls_001-p175.s14}
   - {type: line-break, offset: 218, content: '', id: KX_14_dup159, _xml_error: duplicate-id, _xml_original_id: KX_14}
+  - {type: substitution, offset: 230, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17353}}
   - {type: 'tls:seg', offset: 238, content: '', id: KR3fb021_tls_001-p175.s15}
   - {type: line-break, offset: 238, content: '', id: KX_15_dup158, _xml_error: duplicate-id, _xml_original_id: KX_15}
   - {type: 'tls:seg', offset: 258, content: '', id: KR3fb021_tls_001-p175.s16}
@@ -36,4 +43,4 @@ markers:
   - {type: 'tls:seg', offset: 278, content: '', id: KR3fb021_tls_001-p175.s17}
   - {type: line-break, offset: 278, content: '', id: KX_17_dup153, _xml_error: duplicate-id, _xml_original_id: KX_17}
   back: []
-hash: sha256:8b4a1d8207f6df24a90a83bd8f1e7d0f799d9f14eebe0aca455ff5c060d87a25
+hash: sha256:ba89be40a6417e1a5cc4fd4e7f647c33a54d8a0846e9c6d1a04119c4219785af

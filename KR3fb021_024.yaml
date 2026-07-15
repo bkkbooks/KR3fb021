@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 斗建説卷七分野説古今十二次分野不同表古今分野宿度入宫不同表古今黄赤道不同説古今黄赤道星度不同表古今黄道宫度多寡深淺不同表測經度説
-  hash: sha256:21860a091f836f06fa3a46313c976d497881067dff897842fc937d305c5d968c
+  text: 斗建説卷七分野説古今十二次分野不同表古今分野宿度入宫不同表古今黃赤道不同説古今黃赤道星度不同表古今黃道宫度多寡深淺不同表測經度説
+  hash: sha256:7101eacec19e63d0b82d00f0a10d425f030c770f1f60afed3ce5460b2febf110
 metadata:
   title: 定歷玉衡
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb021.xml
-hash: sha256:b3f95e07c082e17af7e77e99a944b6ad95ad0788fa601f7cc8d4078f51569523
+hash: sha256:bfd2f3e42ae0636e0cec62d35b9654496b5f3297e1b1050cd32a6c3146be706a

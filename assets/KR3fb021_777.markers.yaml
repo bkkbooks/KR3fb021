@@ -21,6 +21,7 @@ markers:
   - {type: punctuation, offset: 70, content: □, id: KR3fb021_tls_777-bkkpn2}
   - {type: 'tls:seg', offset: 71, content: '', id: KR3fb021_tls_001-p372.s6}
   - {type: line-break, offset: 71, content: '', id: KX_6_dup339, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: substitution, offset: 77, original: 晋, replacement: 晉, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17094}}
   - {type: 'tls:seg', offset: 91, content: '', id: KR3fb021_tls_001-p372.s7}
   - {type: line-break, offset: 91, content: '', id: KX_7_dup338, _xml_error: duplicate-id, _xml_original_id: KX_7}
   - {type: punctuation, offset: 92, content: □, id: KR3fb021_tls_777-bkkpn3}
@@ -41,6 +42,7 @@ markers:
   - {type: line-break, offset: 174, content: '', id: KR3fb021_tls_777-bkklb2}
   - {type: 'tls:seg-end', offset: 179, content: '', id: KR3fb021_tls_001-p372.s12.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 179, content: '', id: KR3fb021_tls_001-p372.s12.3}
+  - {type: substitution, offset: 179, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20807}}
   - {type: 'tls:seg', offset: 185, content: '', id: KR3fb021_tls_001-p372.s13}
   - {type: line-break, offset: 185, content: '', id: KX_13_dup326, _xml_error: duplicate-id, _xml_original_id: KX_13}
   - {type: 'tls:seg', offset: 205, content: '', id: KR3fb021_tls_001-p372.s14}
@@ -63,4 +65,4 @@ markers:
   - {type: 'tls:seg', offset: 295, content: '', id: KR3fb021_tls_001-p372.s19}
   - {type: line-break, offset: 295, content: '', id: KX_19_dup295, _xml_error: duplicate-id, _xml_original_id: KX_19}
   back: []
-hash: sha256:4872d219458a328565d56170eb0c252644567b62ed75cf1f0c27753edb4a2033
+hash: sha256:f8f538708c0bbce1396b0db9dc487911ed9bb5552d0ce56e9fc582c0777f5d1f

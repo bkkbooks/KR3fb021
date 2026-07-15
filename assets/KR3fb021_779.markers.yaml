@@ -35,6 +35,7 @@ markers:
   - {type: line-break, offset: 93, content: '', id: KR3fb021_tls_779-bkklb3}
   - {type: 'tls:seg-end', offset: 97, content: '', id: KR3fb021_tls_001-p373.s6.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 97, content: '', id: KR3fb021_tls_001-p373.s6.3}
+  - {type: substitution, offset: 97, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20807}}
   - {type: 'tls:seg', offset: 103, content: '', id: KR3fb021_tls_001-p373.s7}
   - {type: line-break, offset: 103, content: '', id: KX_7_dup339, _xml_error: duplicate-id, _xml_original_id: KX_7}
   - {type: punctuation, offset: 104, content: ０, id: KR3fb021_tls_779-bkkpn3}
@@ -49,6 +50,7 @@ markers:
   - {type: line-break, offset: 143, content: '', id: KX_9_dup336, _xml_error: duplicate-id, _xml_original_id: KX_9}
   - {type: 'tls:seg', offset: 163, content: '', id: KR3fb021_tls_001-p373.s11}
   - {type: line-break, offset: 163, content: '', id: KX_11_dup335, _xml_error: duplicate-id, _xml_original_id: KX_11}
+  - {type: substitution, offset: 178, original: 饑, replacement: 飢, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16274}}
   - {type: 'tls:seg', offset: 183, content: '', id: KR3fb021_tls_001-p373.s12}
   - {type: line-break, offset: 183, content: '', id: KX_12_dup329, _xml_error: duplicate-id, _xml_original_id: KX_12}
   - {type: 'tls:seg', offset: 188, content: '', id: KR3fb021_tls_001-p373.s13}
@@ -77,4 +79,4 @@ markers:
   - {type: 'tls:seg', offset: 280, content: '', id: KR3fb021_tls_001-p373.s19}
   - {type: line-break, offset: 280, content: '', id: KX_19_dup296, _xml_error: duplicate-id, _xml_original_id: KX_19}
   back: []
-hash: sha256:12c95a245d2bf51469dcf82cc823cdf542d22a1a94e1250f1a049e9ca62f332f
+hash: sha256:5d776bb2587bfae706f62aecb2ad3f352168e23839d9d9059b41744133c712d8

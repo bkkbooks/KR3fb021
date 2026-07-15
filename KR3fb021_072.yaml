@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 閏法説閏法策數一元章蔀紀元法數缺一元紀法炁朔積應表第七紀炁朔蔀應章應表第八紀炁朔蔀應章應表第九紀炁朔章應表第十紀炁朔章應表定朔説
-  hash: sha256:0cadecbba9ce9a903e7e95fb2a8e237d31c0f5069b259d38ec0269019555f763
+  text: 閏法説閏法策數一元章蔀紀元法數缺一元紀法氣朔積應表第七紀氣朔蔀應章應表第八紀氣朔蔀應章應表第九紀氣朔章應表第十紀氣朔章應表定朔説
+  hash: sha256:84694f3f67d4a338de3cfecb0f2f2db4f9b631ad38dd0d7bb995e00e1733b244
 metadata:
   title: 定歷玉衡
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb021.xml
-hash: sha256:64dea85fc60285c40f67f8bea5c1b17c478187dadc8596c3df5a9ee8b3587cb0
+hash: sha256:72f3bf9215dd70da2a3c4718d0e6b72bd6bc6f360ab57c813533a0cbffe480fd

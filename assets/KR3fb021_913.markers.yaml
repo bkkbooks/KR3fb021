@@ -32,6 +32,7 @@ markers:
   - {type: line-break, offset: 239, content: '', id: KX_14_dup384, _xml_error: duplicate-id, _xml_original_id: KX_14}
   - {type: 'tls:seg', offset: 259, content: '', id: KR3fb021_tls_001-p440.s15.1}
   - {type: line-break, offset: 259, content: '', id: KX_15_dup381, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: substitution, offset: 263, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17353}}
   - {type: 'tls:seg-start', offset: 277, content: '', id: KR3fb021_tls_001-p440.s15.2, seg_type: comm, member_ids: [KR3fb021_tls_001-p440.s15.2, KR3fb021_tls_001-p440.s16.1, KR3fb021_tls_001-p440.s17.1]}
   - {type: 'tls:seg', offset: 277, content: '', id: KR3fb021_tls_001-p440.s15.2}
   - {type: line-break, offset: 279, content: '', id: KR3fb021_tls_913-bkklb1}
@@ -45,8 +46,10 @@ markers:
   - {type: 'tls:seg', offset: 335, content: '', id: KR3fb021_tls_001-p440.s17.2}
   - {type: 'tls:seg', offset: 348, content: '', id: KR3fb021_tls_001-p440.s18}
   - {type: line-break, offset: 348, content: '', id: KX_18_dup368, _xml_error: duplicate-id, _xml_original_id: KX_18}
+  - {type: substitution, offset: 353, original: 関, replacement: 關, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19734}}
   - {type: punctuation, offset: 365, content: □, id: KR3fb021_tls_913-bkkpn2}
+  - {type: substitution, offset: 366, original: 筭, replacement: 算, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20121}}
   - {type: 'tls:seg', offset: 367, content: '', id: KR3fb021_tls_001-p440.s19}
   - {type: line-break, offset: 367, content: '', id: KX_19_dup357, _xml_error: duplicate-id, _xml_original_id: KX_19}
   back: []
-hash: sha256:1171e65c67023e83e0dbfc292523ae374ee23afdf9fb08a2658c6e3daa8109c4
+hash: sha256:9bd7abf3bcfcd5d3724dbb0ec4799e7cec906cae02d650048801ca4d0bbf6fb4

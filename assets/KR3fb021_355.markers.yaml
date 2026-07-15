@@ -171,8 +171,12 @@ markers:
   - {type: 'tls:seg-end', offset: 718, content: '', id: KR3fb021_tls_001-p161.s14.1_end, seg_type: comm}
   - {type: 'tls:seg', offset: 718, content: '', id: KR3fb021_tls_001-p161.s15}
   - {type: line-break, offset: 718, content: '', id: KX_15_dup146, _xml_error: duplicate-id, _xml_original_id: KX_15}
+  - {type: substitution, offset: 729, original: 炁, replacement: 氣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19387}}
+  - {type: substitution, offset: 730, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17353}}
+  - {type: substitution, offset: 735, original: 炁, replacement: 氣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19387}}
   - {type: 'tls:seg', offset: 737, content: '', id: KR3fb021_tls_001-p161.s16}
   - {type: line-break, offset: 737, content: '', id: KX_16_dup146, _xml_error: duplicate-id, _xml_original_id: KX_16}
+  - {type: substitution, offset: 744, original: 来, replacement: 來, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16500}}
   - {type: 'tls:seg', offset: 756, content: '', id: KR3fb021_tls_001-p161.s17}
   - {type: line-break, offset: 756, content: '', id: KX_17_dup141, _xml_error: duplicate-id, _xml_original_id: KX_17}
   - {type: 'tls:seg', offset: 775, content: '', id: KR3fb021_tls_001-p161.s18}
@@ -180,4 +184,4 @@ markers:
   - {type: 'tls:seg', offset: 794, content: '', id: KR3fb021_tls_001-p161.s19}
   - {type: line-break, offset: 794, content: '', id: KX_19_dup137, _xml_error: duplicate-id, _xml_original_id: KX_19}
   back: []
-hash: sha256:741c42aad15a657329fe649647f56b2d790a2dbb1e35129574f8ed906929f7a4
+hash: sha256:7783ef072160feb68d43d021223af1ba9a9df0b6231cc0a05afc5dc757e5b8bc

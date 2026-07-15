@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 歲星聚井攷證越得歲歲攷證歲淫元枵攷證歲在豕韋攷證歲在顓頊之墟改證歲在析木攷證歲在娵訾言之口攷證歲在鶁火攷證卷十五
-  hash: sha256:44d8b8df4443a5e6779773d62f1196084bb41a20bccbdccae930128b9f6f1f60
+  text: 歲星聚井考證越得歲歲考證歲淫元枵考證歲在豕韋考證歲在顓頊之墟改證歲在析木考證歲在娵訾言之口考證歲在鶁火考證卷十五
+  hash: sha256:cc6aad74b67d256a6b64f5624e1de343baf4da32054e8c962d66088e4cc18e57
 metadata:
   title: 定歷玉衡
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb021.xml
-hash: sha256:3d2a976fbf54a7a3c6469c308dc95632a4045f753f0f7204c83f33ac32c19905
+hash: sha256:48ccbe042b3f38a432b7e59e25cda577e84834b8b7bf585d13d9db502d6794c1

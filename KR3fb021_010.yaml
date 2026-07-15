@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 卷首原編目錄略言暦統暦辨卷一暦原又暦原改本原木一作暦理
-  hash: sha256:b3a7544f71e029d7ede07c04cb88479b2d4cbab61e4dc2d916dc2ea65fc343b0
+  text: 卷首原編目録略言曆統曆辨卷一曆原又曆原改本原木一作曆理
+  hash: sha256:df473cbe7ec9ce07805e86d0573b4f7b1f2ce5511c047650616804af27bcaec3
 metadata:
   title: 定歷玉衡
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb021.xml
-hash: sha256:45a5d5b850b2d9cf929076d53f2b8d2de01d434515595033b6db5ca81da1d777
+hash: sha256:1b5d70bf6e3c763f0fd169a571f00ed13ad5d5fd10a6b055b7ce944b628efea4

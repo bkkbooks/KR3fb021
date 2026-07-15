@@ -9,6 +9,7 @@ markers:
   - {type: punctuation, offset: 14, content: □, id: KR3fb021_tls_276-bkkpn2}
   - {type: 'tls:seg', offset: 18, content: '', id: KR3fb021_tls_001-p122.s2}
   - {type: line-break, offset: 18, content: '', id: KX_2_dup121, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: substitution, offset: 23, original: 甞, replacement: 嘗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16905}}
   - {type: 'tls:seg', offset: 38, content: '', id: KR3fb021_tls_001-p122.s3}
   - {type: line-break, offset: 38, content: '', id: KX_3_dup120, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: 'tls:seg', offset: 58, content: '', id: KR3fb021_tls_001-p122.s4}
@@ -28,6 +29,7 @@ markers:
   - {type: line-break, offset: 158, content: '', id: KX_9_dup117, _xml_error: duplicate-id, _xml_original_id: KX_9}
   - {type: 'tls:seg', offset: 178, content: '', id: KR3fb021_tls_001-p122.s11}
   - {type: line-break, offset: 178, content: '', id: KX_11_dup117, _xml_error: duplicate-id, _xml_original_id: KX_11}
+  - {type: substitution, offset: 195, original: 甞, replacement: 嘗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16905}}
   - {type: 'tls:seg', offset: 198, content: '', id: KR3fb021_tls_001-p122.s12}
   - {type: line-break, offset: 198, content: '', id: KX_12_dup114, _xml_error: duplicate-id, _xml_original_id: KX_12}
   - {type: 'tls:seg', offset: 218, content: '', id: KR3fb021_tls_001-p122.s13}
@@ -45,4 +47,4 @@ markers:
   - {type: 'tls:seg', offset: 338, content: '', id: KR3fb021_tls_001-p122.s19}
   - {type: line-break, offset: 338, content: '', id: KX_19_dup104, _xml_error: duplicate-id, _xml_original_id: KX_19}
   back: []
-hash: sha256:8d8ea178cdaeea9ebb8fe131342c1cc282bf21edd4835aff922d3f90fea3692a
+hash: sha256:570a7e68033a30e21da250b2e09cec4b000c7b86ed5fb338225f8c562b7c0786

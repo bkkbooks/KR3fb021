@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 古今分野宿度入宫不同表附新定法古今黄赤道不同説古今黄赤道星度不同表古今黄道宿度入宫多寡深淺不同黄道説宿度分秒辨拼在斗建說前見五卷測經度説步斗法説
-  hash: sha256:e1acf20e8dace84e04c6b4370b734446f349ae8fbe8fd3db7d0e9248504f5985
+  text: 古今分野宿度入宫不同表附新定法古今黃赤道不同説古今黃赤道星度不同表古今黃道宿度入宫多寡深淺不同黃道説宿度分秒辨拼在斗建説前見五卷測經度説步斗法説
+  hash: sha256:4a0599560ae4edd038c3583332493c96fbc829f433b037c0154f785d59220c39
 metadata:
   title: 定歷玉衡
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb021.xml
-hash: sha256:3efd12ed98a0ec6c5a1b3c59f86dab9aa73971c2f02c2c6c74647a5dbe855f8f
+hash: sha256:7b0ce6b19df35f648b79db7c1179b9d06fbb13b22f64928b901dda23a385e8c6

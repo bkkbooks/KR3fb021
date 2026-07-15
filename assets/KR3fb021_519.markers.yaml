@@ -28,6 +28,7 @@ markers:
   - {type: 'tls:seg-end', offset: 79, content: '', id: KR3fb021_tls_001-p243.s4.4_end, seg_type: comm}
   - {type: 'tls:seg', offset: 79, content: '', id: KR3fb021_tls_001-p243.s5}
   - {type: line-break, offset: 79, content: '', id: KX_5_dup226, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: substitution, offset: 79, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20807}}
   - {type: 'tls:seg', offset: 99, content: '', id: KR3fb021_tls_001-p243.s6}
   - {type: line-break, offset: 99, content: '', id: KX_6_dup226, _xml_error: duplicate-id, _xml_original_id: KX_6}
   - {type: punctuation, offset: 106, content: ０, id: KR3fb021_tls_519-bkkpn1}
@@ -74,6 +75,7 @@ markers:
   - {type: line-break, offset: 270, content: '', id: KR3fb021_tls_519-bkklb9}
   - {type: 'tls:seg-end', offset: 274, content: '', id: KR3fb021_tls_001-p243.s15.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 274, content: '', id: KR3fb021_tls_001-p243.s15.3}
+  - {type: substitution, offset: 274, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20807}}
   - {type: 'tls:seg', offset: 287, content: '', id: KR3fb021_tls_001-p243.s16}
   - {type: line-break, offset: 287, content: '', id: KX_16_dup208, _xml_error: duplicate-id, _xml_original_id: KX_16}
   - {type: 'tls:seg', offset: 307, content: '', id: KR3fb021_tls_001-p243.s17}
@@ -89,4 +91,4 @@ markers:
   - {type: 'tls:seg-end', offset: 357, content: '', id: KR3fb021_tls_001-p243.s19.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 357, content: '', id: KR3fb021_tls_001-p243.s19.3}
   back: []
-hash: sha256:1c721e6c706b01dc462f6596052a66aed358801ae90c88ab1f5dc02c10455732
+hash: sha256:aaa463a1469bf7d12c8f13f697a2b5afed2ea3c9ecc2e2bf0c3c4a613d2417d8

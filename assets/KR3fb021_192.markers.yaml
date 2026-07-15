@@ -15,10 +15,13 @@ markers:
   - {type: 'tls:seg-end', offset: 33, content: '', id: KR3fb021_tls_001-p80.s3.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 33, content: '', id: KR3fb021_tls_001-p80.s4}
   - {type: line-break, offset: 33, content: '', id: KX_4_dup78, _xml_error: duplicate-id, _xml_original_id: KX_4}
+  - {type: substitution, offset: 43, original: 畧, replacement: 略, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17299}}
   - {type: 'tls:seg', offset: 52, content: '', id: KR3fb021_tls_001-p80.s5}
   - {type: line-break, offset: 52, content: '', id: KX_5_dup77, _xml_error: duplicate-id, _xml_original_id: KX_5}
+  - {type: substitution, offset: 60, original: 宻, replacement: 密, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19356}}
   - {type: 'tls:seg', offset: 71, content: '', id: KR3fb021_tls_001-p80.s6}
   - {type: line-break, offset: 71, content: '', id: KX_6_dup77, _xml_error: duplicate-id, _xml_original_id: KX_6}
+  - {type: substitution, offset: 89, original: 宻, replacement: 密, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19356}}
   - {type: 'tls:seg', offset: 90, content: '', id: KR3fb021_tls_001-p80.s7}
   - {type: line-break, offset: 90, content: '', id: KX_7_dup77, _xml_error: duplicate-id, _xml_original_id: KX_7}
   - {type: 'tls:seg', offset: 95, content: '', id: KR3fb021_tls_001-p80.s8.1}
@@ -58,4 +61,4 @@ markers:
   - {type: 'tls:seg', offset: 259, content: '', id: KR3fb021_tls_001-p80.s19}
   - {type: line-break, offset: 259, content: '', id: KX_19_dup70, _xml_error: duplicate-id, _xml_original_id: KX_19}
   back: []
-hash: sha256:e7c47460109aa6342b9c940d60cd110704ebe2e1a4aad676b376a0aadeed476e
+hash: sha256:e97c583ec6149ab3f2e624df9117801c6bbd3ff31f9cc1b3611617e6c48c1dde

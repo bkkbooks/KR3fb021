@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 圖與地圖小格報橫各二度中大方格蜓橫皆二十四度則三五之世所治之臻土也其于年鄉酉二程乃天地中錄少偏于午而倚于卯者限于幅耳覽者以意會馬可也圖
-  hash: sha256:41149cb6e0c74ade1aee7148c54789b11a5c57c488bb144611c9c30fa60279c0
+  text: 圖與地圖小格報橫各二度中大方格蜓橫皆二十四度則三五之世所治之臻土也其于年鄉酉二程乃天地中録少偏于午而倚于卯者限于幅耳覽者以意會馬可也圖
+  hash: sha256:7997f375e749a5a082d22402866c0ff8eb653ffbdf822fe0545848eaadc83184
 metadata:
   title: 定歷玉衡
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb021.xml
-hash: sha256:cbc87642c254dab61421704b31870338b3f1a9c62e83db6a6136bdba2843111f
+hash: sha256:2989d70c4b5789beaf06ecaa9fc98a824b53dd959b510a1d92824e411bc2aed9

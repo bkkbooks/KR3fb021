@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 張雍敬字簡庵秀水也善宣秝玉衡博綜秝法五十六家正秝術之謬四十有四成書一十八卷其説主中術為多裹糧走千里位見梅文鼎偽馆授餐逾年於辨論考數百條去異就同歸宇不疑之地惟西人地圖如球之説則不合與梅氏兄弟及汪喬年輩往後辨難三四美善宣城遊学记
-  hash: sha256:68fb40d81d5f2f4bd226ab576fe6909b3c8fa85d5dd63351913c61b0e79428c5
+  text: 張雍敬字簡庵秀水也善宣秝玉衡博綜秝法五十六家正秝術之謬四十有四成書一十八卷其説主中術為多裹糧走千里位見梅文鼎偽館授餐逾年於辨論考數百條去異就同歸宇不疑之地惟西人地圖如球之説則不合與梅氏兄弟及汪喬年輩往後辨難三四美善宣城遊學記
+  hash: sha256:751f109b0ee48cb8af80f0dda21a1258c0f2679f0f2703f5d66dccdd1379a805
 metadata:
   title: 定歷玉衡
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb021.xml
-hash: sha256:b7ca22af4fe8349519576fa366325a9fcfdc38fe834cf94ff16df6d8f0da1984
+hash: sha256:cd1494ff6047f26b2259101da2ed1e92eda98eeb2dc9d25fefe5a1c09fa50957
